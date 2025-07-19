@@ -1,0 +1,7 @@
+{
+  "name": "flask-weather-app-root",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
